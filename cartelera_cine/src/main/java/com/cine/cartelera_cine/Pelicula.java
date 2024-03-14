@@ -1,6 +1,5 @@
 package com.cine.cartelera_cine;
 
-import java.util.Date;
 
 public class Pelicula {
     private int id;
